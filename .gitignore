@@ -1,0 +1,18 @@
+build/
+dist/
+HoyoGameTimerV1.0.0/
+
+# PyInstaller の設定ファイル
+*.spec
+
+# 一時ファイルやログファイル
+*.tmp
+*.log
+
+# Python のキャッシュファイル
+__pycache__/
+*.pyc
+*.pyo
+
+# Git 管理対象外のディレクトリ（.git フォルダ）
+.git/
