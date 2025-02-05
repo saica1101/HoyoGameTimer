@@ -8,5 +8,8 @@
 ![image](https://github.com/user-attachments/assets/e2d77a16-d59f-4aa2-8c5c-d209f7fc2923)
 # Requirements
 + Windows 11
+# Issue
++ 通知処理が複数回行われてしまう
++ タイマーのカウントダウン処理は問題ないが描画が遅れてしまい43秒からいきなり40秒になったりする
 # License
 HoyoGameTimer is licensed under [the MIT License](https://github.com/saica1101/HoyoGameTimer/blob/main/LICENSE.md)
